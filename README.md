@@ -8,17 +8,19 @@ An intelligent study companion that transforms your learning materials into inte
 - Upload PDF, Word, PowerPoint, or text files
 - AI-powered text extraction and analysis
 - Support for multiple file formats
+  <img width="1470" height="814" alt="Screenshot 2025-09-01 at 23 11 15" src="https://github.com/user-attachments/assets/327c45d0-48c8-4402-90ce-13380edfb5c1" />
 
 🧠 **AI-Generated Content:**
 - Intelligent summaries highlighting key concepts
 - 10 custom quiz questions per material
 - Immediate feedback with detailed explanations
 - Key concept identification for review
+  <img width="1466" height="816" alt="Screenshot 2025-09-01 at 23 10 32" src="https://github.com/user-attachments/assets/629e627f-9e58-4c98-81f3-3ab1b9e80d33" />
 
 🌐 **Multi-Language Support:**
 - English, Japanese, Korean, Spanish, French, Chinese
-- Seamless language switching
 - Localized interface and content
+<img width="1462" height="828" alt="Screenshot 2025-09-01 at 23 18 07" src="https://github.com/user-attachments/assets/4a7db717-6d39-4b0e-90ae-b985ae000176" />
 
 🎨 **Modern Interface:**
 - Responsive design with drag-and-drop functionality
