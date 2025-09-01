@@ -1,6 +1,6 @@
 # 📚 AI Study Assistant
 
-An intelligent study companion that transforms your learning materials into interactive summaries and quizzes using AI technology.
+An intelligent study companion that transforms your learning materials into interactive summaries and quizzes using OpenAI.
 
 ## ✨ Features
 
